@@ -32,4 +32,4 @@ Dataset columns and definition:
 
 **pub.rec:** The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
 
-
+### Conclusion- Model accuracy found as 84%
